@@ -10,6 +10,9 @@ alias dc="docker-compose"
 alias dcu="docker-compose up"
 alias dcd="docker-compose down"
 
+alias ka="killall"
+ip="ip -color=auto"
+
 # ps
 alias psgrep="ps aux | grep -v grep | grep -i -e VSZ -e --color=always"
 alias psmem="procs --sortd mem"

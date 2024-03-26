@@ -1,0 +1,5 @@
+[user]
+	name = i-gdev
+	email = gigadev@iamg.dev
+[init]
+	defaultBranch = main
